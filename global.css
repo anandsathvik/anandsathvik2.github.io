@@ -33,7 +33,7 @@ body {
   --br-11xl: 30px;
   --br-18xl-3: 37.3px;
 }
-/* Dropdown Styles */
+/* Add this to your CSS file to style the dropdown */
 .dropdown {
   position: relative;
   display: inline-block;
@@ -56,10 +56,9 @@ body {
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #f1f1f1;
 }
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
