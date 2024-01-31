@@ -379,15 +379,5 @@
     display: none;
   }
 }
-/* Add this CSS to index.css */
-.about5 {
-  display: inline-block;
-  margin: 0 20px;
-  cursor: pointer;
-  color: #333;
-  font-weight: bold;
-  font-size: 18px;
-  border: none; /* Remove button border */
-  background: none; /* Remove button background */
-}
+
 
